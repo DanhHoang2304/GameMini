@@ -1,0 +1,12 @@
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\bin\Debug\GameMini.exe.config
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\bin\Debug\GameMini.exe
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\bin\Debug\GameMini.pdb
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.csproj.AssemblyReference.cache
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.csproj.SuggestedBindingRedirects.cache
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.Properties.Resources.resources
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.csproj.GenerateResource.cache
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.csproj.CoreCompileInputs.cache
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.exe
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.pdb
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.FormBeginGame.resources
+D:\Lap Trinh C#\ThucHanh1\GameMini\GameMini\obj\Debug\GameMini.FormGame.resources
